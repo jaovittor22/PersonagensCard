@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PersonagensCard/static/css/main.7be63a81.css",
+    "main.js": "/PersonagensCard/static/js/main.8a2f958d.js",
+    "static/media/desenho.jpg": "/PersonagensCard/static/media/desenho.601a70a4fb90e4a31b4e.jpg",
+    "index.html": "/PersonagensCard/index.html",
+    "main.7be63a81.css.map": "/PersonagensCard/static/css/main.7be63a81.css.map",
+    "main.8a2f958d.js.map": "/PersonagensCard/static/js/main.8a2f958d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be63a81.css",
+    "static/js/main.8a2f958d.js"
+  ]
+}
