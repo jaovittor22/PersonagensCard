@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+.banner {
+    height: 250px;
+    width: 100%;
+    background-image: url(/public/imagens/desenho.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.banner section h1{
+    font-size: 40px;
+    color: white;
+    font-family: 'Rampart One', cursive;
+    
+}
+
+
+
